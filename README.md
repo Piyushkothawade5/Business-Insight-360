@@ -98,7 +98,7 @@ For a dynamic experience and to see the interactive capabilities of the "Busines
 Here are some screenshots showcasing the key dashboards and their design:
 
 * **Welcome Page:**
-    ![Welcome Page](images/welcome_page.png)
+    ![Welcome Page] C:\Users\ADMIN\Downloads\ilovepdf_pages-to-jpg (1)
 * **Financials Dashboard (Revenue):**
     ![Financials Revenue](images/financials_revenue.png)
 * **Financials Dashboard (P&L):**
