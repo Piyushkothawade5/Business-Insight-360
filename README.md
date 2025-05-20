@@ -121,3 +121,4 @@ I'm always eager to connect with fellow data enthusiasts, industry professionals
 
 * **LinkedIn:** https://www.linkedin.com/in/piyush-kothawade/
 * **Portfolio Website:** https://app.powerbi.com/view?r=eyJrIjoiZWE1ZWUyMjktMDQ2NS00ZTYzLTg2YTYtMjI2NTI2YWI5ODhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+* **Excel Workbook:** https://1drv.ms/x/c/f52e0164f3223fbe/EZ2GEpJS0T9HruQUY8wM1b4BnzkYNDANblDTekkGrFhb9A?e=t39bLc
