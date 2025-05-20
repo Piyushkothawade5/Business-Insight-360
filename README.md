@@ -85,7 +85,6 @@ Throughout this project, I worked extensively with and gained a deep understandi
 
 For a dynamic experience and to see the interactive capabilities of the "Business Insight 360" dashboard in action, check out my video walkthrough:
 
-[**Link to your LinkedIn screen recording post OR YouTube video here**]
 
 ## 📸 Dashboard Screenshots
 
@@ -104,7 +103,6 @@ Here are some screenshots showcasing the key dashboards and their design:
 * **Supply Chain Dashboard:**
     ![Supply Chain Dashboard](images/supply_chain_dashboard.png)
 
-*(Note: Replace `images/filename.png` with actual relative paths once you upload your images to an `images` folder.)*
 
 ## 📚 Data Source & Methodology
 
@@ -115,21 +113,10 @@ The data for this project was sourced from simulated datasets provided as part o
 4.  **DAX Calculations:** Developing custom measures and calculated columns to derive key business metrics (e.g., Net Sales, Gross Margin %, Forecast Accuracy, YTD analysis).
 5.  **Visualization:** Designing interactive dashboards with appropriate charts and slicers to present insights clearly.
 
-## 🙏 Acknowledgements
-
-This project would not have been possible without the invaluable guidance and support from:
-
-* **@Dhaval Patel sir**
-* **@Hemanand Vadivel sir**
-* **@Bhavin Patel sir**
-* The entire **@Codebasics team**
-
-Their mentorship and the comprehensive CodeBasics curriculum provided the foundation for this learning journey.
 
 ## 🔗 Connect With Me
 
 I'm always eager to connect with fellow data enthusiasts, industry professionals, and recruiters. Feel free to reach out and discuss this project or opportunities in data analytics!
 
-* **LinkedIn:** [Your LinkedIn Profile Link Here]
+* **LinkedIn:** https://www.linkedin.com/in/piyush-kothawade/
 * **Portfolio Website:** [Your Personal Portfolio Website Link Here (if you have one)]
-* **GitHub:** [Link to this specific GitHub Repository]
