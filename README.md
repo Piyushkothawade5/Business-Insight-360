@@ -120,4 +120,4 @@ The data for this project was sourced from simulated datasets provided as part o
 I'm always eager to connect with fellow data enthusiasts, industry professionals, and recruiters. Feel free to reach out and discuss this project or opportunities in data analytics!
 
 * **LinkedIn:** https://www.linkedin.com/in/piyush-kothawade/
-* **Portfolio Website:** 
+* **Portfolio Website:** https://app.powerbi.com/view?r=eyJrIjoiZWE1ZWUyMjktMDQ2NS00ZTYzLTg2YTYtMjI2NTI2YWI5ODhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
