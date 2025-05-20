@@ -81,6 +81,12 @@ Throughout this project, I worked extensively with and gained a deep understandi
 
 ---
 
+## 🌐 Live Interactive Dashboard
+
+Experience the "Business Insight 360" dashboard live! You can interact with the various modules, apply filters, and drill down into insights directly in your web browser.
+
+https://app.powerbi.com/view?r=eyJrIjoiZWE1ZWUyMjktMDQ2NS00ZTYzLTg2YTYtMjI2NTI2YWI5ODhiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
 ## Project Walkthrough / Live Demo
 
 For a dynamic experience and to see the interactive capabilities of the "Business Insight 360" dashboard in action, check out my video walkthrough:
