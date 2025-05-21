@@ -97,10 +97,10 @@ For a dynamic experience and to see the interactive capabilities of the "Busines
 
 Here are some screenshots showcasing the key dashboards and their design:
 
-* **Welcome Page:**
-    Businees Insight 360_page-0001.jpg
+* **Home Page:**
+   https://github.com/Piyushkothawade5/Business-Insight-360/blob/d774fea26c106c476154119e747cb202cfd6fc21/Businees%20Insight%20360_page-0001.jpg
 * **Financials Dashboard (Revenue):**
-    ![Financials Revenue](images/financials_revenue.png)
+   Businees Insight 360_page-0002.png
 * **Financials Dashboard (P&L):**
     ![Financials P&L](images/financials_pnl.png)
 * **Sales Dashboard:**
