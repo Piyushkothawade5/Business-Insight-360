@@ -98,11 +98,11 @@ For a dynamic experience and to see the interactive capabilities of the "Busines
 Here are some screenshots showcasing the key dashboards and their design:
 
 * **Home Page:**
-  [Home Page](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Home%20Page.jpg)
+    ![Home Page](https://github.com/Piyushkothawade5/Business-Insight-360/blob/3e80617ca752edc5c710c8f8e8b1576effb9b44e/Home%20Page.jpg)
 * **Financials Dashboard (Revenue):**
- [Financials Dashboard (Revenue)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(Revenue).jpg)
+    ![Financials Dashboard (Revenue)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(Revenue).jpg)
 * **Financials Dashboard (P&L):**
-    [Financials Dashboard (P&L)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(P%20%26%20L%20Report).jpg)
+    ![Financials Dashboard (P&L)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(P%20%26%20L%20Report).jpg)
 * **Sales Dashboard:**
     ![Sales Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Sales%20Dashboard.jpg)
 * **Marketing Dashboard:**
