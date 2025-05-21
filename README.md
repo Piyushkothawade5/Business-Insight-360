@@ -98,19 +98,17 @@ For a dynamic experience and to see the interactive capabilities of the "Busines
 Here are some screenshots showcasing the key dashboards and their design:
 
 * **Home Page:**
-  [Home Page](https://github.com/Piyushkothawade5/Business-Insight-360/blob/main/images/Businees%20Insight%20360_page-0001.jpg)
+  [Home Page](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Home%20Page.jpg)
 * **Financials Dashboard (Revenue):**
- [Financials Dashboard (Revenue)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/main/images/Businees%20Insight%20360_page-0002.jpg)
+ [Financials Dashboard (Revenue)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(Revenue).jpg)
 * **Financials Dashboard (P&L):**
-    [Financials Dashboard (P&L)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0003.jpg)
+    [Financials Dashboard (P&L)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Financials%20(P%20%26%20L%20Report).jpg)
 * **Sales Dashboard:**
-    ![Sales Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0004.jpg)
+    ![Sales Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Sales%20Dashboard.jpg)
 * **Marketing Dashboard:**
-    ![Marketing Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0005.jpg)
+    ![Marketing Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Marketing%20Dashboard.jpg)
 * **Supply Chain Dashboard:**
-    ![Supply Chain Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0006.jpg)
-  
-
+    ![Supply Chain Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/ea03ad76600b8a9c5ee06cca364ca4eb7745bb6d/Supply%20Chain%20Dashboard.jpg)
 ## Data Source & Methodology
 
 The data for this project was sourced from simulated datasets provided as part of the CodeBasics curriculum for AtliQ Hardware. The methodology involved:
