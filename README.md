@@ -98,17 +98,17 @@ For a dynamic experience and to see the interactive capabilities of the "Busines
 Here are some screenshots showcasing the key dashboards and their design:
 
 * **Home Page:**
-   https://github.com/Piyushkothawade5/Business-Insight-360/blob/d774fea26c106c476154119e747cb202cfd6fc21/Businees%20Insight%20360_page-0001.jpg
+  [Home Page](https://github.com/Piyushkothawade5/Business-Insight-360/blob/main/images/Businees%20Insight%20360_page-0001.jpg)
 * **Financials Dashboard (Revenue):**
-   Businees Insight 360_page-0002.png
+ [Financials Dashboard (Revenue)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/main/images/Businees%20Insight%20360_page-0002.jpg)
 * **Financials Dashboard (P&L):**
-    ![Financials P&L](images/financials_pnl.png)
+    [Financials Dashboard (P&L)](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0003.jpg)
 * **Sales Dashboard:**
-    ![Sales Dashboard](images/sales_dashboard.png)
+    ![Sales Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0004.jpg)
 * **Marketing Dashboard:**
-    ![Marketing Dashboard](images/marketing_dashboard.png)
+    ![Marketing Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0005.jpg)
 * **Supply Chain Dashboard:**
-    ![Supply Chain Dashboard](images/supply_chain_dashboard.png)
+    ![Supply Chain Dashboard](https://github.com/Piyushkothawade5/Business-Insight-360/blob/f4294a9ae4b1671c5a2f71c203d7c5b6e95133c8/Businees%20Insight%20360_page-0006.jpg)
   
 
 ## Data Source & Methodology
